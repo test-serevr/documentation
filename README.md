@@ -16,5 +16,5 @@ In this way a single person(admin) can answer, all the questions.
 >* Login as admin. (Gives all the answers)
 >* Login as user. (Just need to login and join server, then sit back and relax)
 
-## [How to login as admin(click here)](https://github.com/test-serevr/readme/blob/master/admin.md)
-## [How to login as user(click here)](https://github.com/test-serevr/readme/blob/master/user.md)
+## [How to login as admin(click here)](https://github.com/test-serevr/documentation/blob/master/admin.md)
+## [How to login as user(click here)](https://github.com/test-serevr/documentation/blob/master/user.md)
